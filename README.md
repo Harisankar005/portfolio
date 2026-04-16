@@ -5,7 +5,7 @@
 
 A minimalist, responsive personal portfolio website designed to showcase my journey, projects, and skills as an aspiring AI Engineer. Built with a high-contrast "tech-enthusiast" dark theme featuring charcoal backgrounds and electric blue accents.
 
-🌐 **Live Website:** [Portfolio]([https://harisankar.com](https://harisankar005.github.io/portfolio/))
+🌐 **Live Website:** [Portfolio](https://harisankar005.github.io/portfolio/)
 
 ---
 
